@@ -31,13 +31,16 @@ Sprint 1: Learnings
 * After that we learnt how to create and use Git repositories. 
 * Moreover, we learnt about Git branching and created branches for our project. 
 * At the end of the Sprint, we started to create a database and created a sample database to know about how databases work.
+
 Sprint 2: Learnings
 * During Sprint 2, we were split into two teams and my team was given a task of creating screens(UI - User Interface) and database tables. 
 * After going through various examples of database tables we created a few suitable database tables along with the screens. 
 * After creating the screens and database tables we started working on the navbar (navigation bar) and completed it by the end of Sprint 2.
+
 Sprint 3: Learnings
 * During Sprint 3, my team started working on the Farmer Profile page. 
 * The user with type farmer will be able to edit his/her information and update it in the database without creating any new field in the database. 
+
 Sprint 4: Learnings
 * During Sprint 4, my team started working on the Farmers product Adding page and Farmer Product Editing page.
 * The user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. 
