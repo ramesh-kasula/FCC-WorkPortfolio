@@ -60,10 +60,3 @@ Sprint 6:
 * During the integration we faced a few issues related to CSS-Alignment and Images.
 * After dealing with these issues, we started to work on implementing search bar for farmer search bar.
 * After succeeding in it, we continued to work on customer search bar.
-
-
-Sprint 5:
-	During Sprint 5, my team started working on Unit Testing. After a complete day of research about unit testing, we started to implement it. After completing the backend unit testing, we started to work on the previous changes that had to be made. Later, we started with the process of integration.
-
-Sprint 6:
-	During Sprint 6, my team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
