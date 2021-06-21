@@ -60,3 +60,8 @@ Sprint 6:
 * During the integration we faced a few issues related to CSS-Alignment and Images.
 * After dealing with these issues, we started to work on implementing search bar for farmer search bar.
 * After succeeding in it, we continued to work on customer search bar.
+
+Sprint 7:
+* During Sprint 7, my team continued to work the process of integration for profile editing. 
+* During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. 
+* After working on these issues, the integration process was completed along with the task of adding to cart page.
