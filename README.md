@@ -32,46 +32,46 @@ Git and GitHub
 
 ## Learnings
 ### Sprint 1:
-* During Sprint 1, I learnt about scrum processes and agile methodology. 
-* Also, I came to know about the MERN technologies (MERN - MongoDB, Express, React JS and Node JS) that have to be used in the project. 
-* After that I learnt how to create and use Git repositories. 
-* Moreover, I learnt about Git branching and created branches for our project. 
-* At the end of the Sprint, I started to create a database and created a sample database to know about how databases work.
+* During Sprint 1, I learnt about scrum processes and agile methodology
+* Also, I came to know about the MERN technologies (MERN - MongoDB, Express, React JS and Node JS) that have to be used in the project
+* After that I learnt how to create and use Git repositories
+* Moreover, I learnt about Git branching and created branches for our project 
+* At the end of the Sprint, I started to create a database and created a sample database to know about how databases work
 
 ### Sprint 2:
-* During Sprint 2, our entire team was split into two teams and my team was given a task of creating screens(UI - User Interface) and database tables. 
-* After going through various examples of database tables we created a few suitable database tables along with the screens. 
-* After creating the screens and database tables we started working on the navbar (navigation bar) and completed it by the end of Sprint 2.
+* During Sprint 2, our entire team was split into two teams and my team was given a task of creating screens(UI - User Interface) and database tables
+* After going through various examples of database tables we created a few suitable database tables along with the screens
+* After creating the screens and database tables we started working on the navbar (navigation bar) and completed it by the end of Sprint 2
 
 ### Sprint 3:
-* During Sprint 3, my team started working on the Farmer Profile page. 
-* The user with type farmer will be able to edit his/her information and update it in the database without creating any new field in the database. 
+* During Sprint 3, my team started working on the Farmer Profile page
+* The user with type farmer will be able to edit his/her information and update it in the database without creating any new field in the database
 
 ### Sprint 4:
-* During Sprint 4, my team started working on the Farmers product Adding page and Farmer Product Editing page.
-* The user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. 
-* These details will be portrayed in the website and can be edited by the farmer along with adding new products.
-* The farmer can also delete the product to remove from his Product List. 
+* During Sprint 4, my team started working on the Farmers product Adding page and Farmer Product Editing page
+* The user with type farmer will be able to add and edit his/her information regarding the products and update it in the database
+* These details will be portrayed in the website and can be edited by the farmer along with adding new products
+* The farmer can also delete the product to remove from his Product List
 
 ### Sprint 5:
-* During Sprint 5, our team started working on Unit Testing.
-* After a complete day of research about unit testing, our team started to implement on the Unit/Component testing in the backend.
-* After completing the backend unit testing, our team worked on the previous changes that had to be made which are suggested by our mentor. 
-* Later, we started integration by all of us gathering together.
+* During Sprint 5, our team started working on Unit Testing
+* After a complete day of research about unit testing, our team started to implement on the Unit/Component testing in the backend
+* After completing the backend unit testing, our team worked on the previous changes that had to be made which are suggested by our mentor
+* Later, we started integration by all of us gathering together
 
 ### Sprint 6:
-* During Sprint 6, our whole team continued to work the process of integration.
-* During the integration we faced a few issues related to CSS-Alignment and Images.
-* After dealing with these issues, we started to work on implementing search bar for farmer search bar.
-* After succeeding in it, our team continued to work on customer search bar.
+* During Sprint 6, our whole team continued to work the process of integration
+* During the integration we faced a few issues related to CSS-Alignment and Images
+* After dealing with these issues, we started to work on implementing search bar for farmer search bar
+* After succeeding in it, our team continued to work on customer search bar
 
 ### Sprint 7:
-* During Sprint 7, my team continued to work the process of integration for profile editing. 
-* During the integration our team faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. 
-* After working on these issues, the integration process was completed along with the task of adding to cart page.
+* During Sprint 7, my team continued to work the process of integration for profile editing
+* During the integration our team faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult
+* After working on these issues, the integration process was completed along with the task of adding to cart page
 
 ### Sprint 8:
 * During Sprint 8, our team started to work on the process of checkout and once we completed it we moved to work on the orders page of the customer
 * After that we started to work on the orders page of the farmer
 * After all these tasks we started to work on accept and reject order during which we faced a few issues
-* However, finally we were able to sort out the accept or reject order and we were able to display it to the customer as well.
+* However, finally we were able to sort out the accept or reject order and we were able to display it to the customer as well
