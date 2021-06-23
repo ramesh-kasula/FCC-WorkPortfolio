@@ -10,11 +10,15 @@ Many Farmers are ending up in losses because they are unable to find a better pr
 
 
 ## Problems faced along the project implementation
-* We had a little problem with the implementation of CSS but we completed the CSS by applying bootstrap.
-* We faced a few problems related to posting and fetching data to and from the database, but we could solve the issues by going through various online resources.
+* We had a little problem with the implementation of CSS but we completed the CSS by applying bootstrap
+* We faced a few problems related to posting and fetching data to and from the database, but we could solve the issues by going through various online resources
 * Fetching the product details from the database was a little difficult but, we were able to complete data fetching successfully
 * We faced a little problem while trying to add image to database and we had to go through a lot of resources to solve the issue
-* Deciding on the right CSS styling took a lot of time and it can always be improved.
+* Deciding on the right CSS styling took a lot of time and it can always be improved
+* Integration was a bit tough and we had power issues due to which the work was postponed
+* Faced a problem while testing the put method and we resolved it later
+* Faced a few issues while working with images but later we could resolve it
+* Faced issues while fetching and displaying data for accept or reject orders
 
 ## Technologies required and, that we are learning
 * Frontend:
@@ -65,3 +69,9 @@ Sprint 7:
 * During Sprint 7, my team continued to work the process of integration for profile editing. 
 * During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. 
 * After working on these issues, the integration process was completed along with the task of adding to cart page.
+
+Sprint 8:
+* During Sprint 8, we started to work on the process of checkout and once we completed it we moved to work on the orders page of the customer
+* After that we started to work on the orders page of the farmer
+* After all these tasks we started to work on accept and reject order during which we faced a few issues
+* However, finally we were able to sort out the accept or reject order and we were able to display it to the customer as well.
